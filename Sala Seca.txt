@@ -1,0 +1,61 @@
+@ 07/08/2012 - Terca-feira
+		Hora: 10:57
+			Temperatura: 20.0ºC.
+			Umidade Relativa: 50.0%.
+			aaa.
+		Hora: 10:57
+			Temperatura: 30.0ºC.
+			Umidade Relativa: 70.0%.
+			www.
+		Hora: 10:58
+			Temperatura: 0.0ºC.
+			Umidade Relativa: 70.0%.
+			eee.
+
+@ 08/08/2012 - Quarta-feira
+		Hora: 10:59
+			Temperatura: 44.0ºC.
+			Umidade Relativa: 69.0%.
+			jjj.
+		Hora: 11:59
+			Temperatura: 20.0ºC.
+			Umidade Relativa: 90.0%.
+			jjj.
+
+@ 07/08/2012 - Terca-feira
+		Hora: 11:04
+			Temperatura: 44.0ºC.
+			Umidade Relativa: 100.0%.
+			eeee.
+
+@ 09/08/2012 - Quarta-feira
+		Hora: 09:12
+			Temperatura: 15.0ºC.
+			Umidade Relativa: 30.0%.
+			ssas.
+
+@ 10/08/2012 - Quarta-feira
+		Hora: 12:51
+			Temperatura: 25.0ºC.
+			Umidade Relativa: 50.0%.
+			ssss.
+		Hora: 13:52
+			Temperatura: 23.0ºC.
+			Umidade Relativa: 46.0%.
+			qqq.
+		Hora: 14:52
+			Temperatura: 22.0ºC.
+			Umidade Relativa: 37.0%.
+			ssss.
+		Hora: 15:52
+			Temperatura: 20.0ºC.
+			Umidade Relativa: 39.0%.
+			sss.
+		Hora: 16:52
+			Temperatura: 20.0ºC.
+			Umidade Relativa: 33.0%.
+			qqq.
+		Hora: 17:53
+			Temperatura: 20.0ºC.
+			Umidade Relativa: 30.0%.
+			sss.
